@@ -11,7 +11,7 @@ public class pauseControl : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        //all hidden except pause button
+
         Resume();
     }
 	
